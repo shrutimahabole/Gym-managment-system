@@ -140,5 +140,9 @@ foreach($results as $result)
 
 
 
+	<script src="js/main.js"></script>
+
+
+
 	</body>
 </html>
